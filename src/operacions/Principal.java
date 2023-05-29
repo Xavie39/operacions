@@ -11,4 +11,5 @@ public class Principal {
 			System.out.println("No es poden fer servir nombres negatius.");
 		}
 	}
+	// Pendent provar la crida al factorialRecursiu
 }
